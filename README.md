@@ -1,7 +1,7 @@
 ##   Tech Stack
 
 ### 🧠 Languages:
-![php](https://img.shields.io/badge/-php-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![php](https://img.shields.io/badge/-php-3776AB?style=for-the-badge&logo=php&logoColor=yellow)
 ![python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-0175C2?style=for-the-badge&logo=javascript&logoColor=white)
 
